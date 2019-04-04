@@ -6,7 +6,7 @@ Decryptor is a socket server that listens to open servers with given port number
 Encryptor sends encrypted message to decryptor that then decrypts its using the key that you will have to input.
 
 Run in this order.
-1.python3 decrpptor.py
+1.python3 decrptor.py
 2.input port
 3.python3 excryptor.py
 4.input message, key
