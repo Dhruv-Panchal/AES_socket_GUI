@@ -8,12 +8,13 @@ Encryptor sends encrypted message to decryptor that then decrypts its using the 
 Run in this order.
 1.python3 decrptor.py
 2.input port
-3.python3 excryptor.py
-4.input message, key
-5.press encrypt
-6.enter port
-7.press send
-8.then on decryptor enter key and press decrypt
+3.start server
+4.python3 excryptor.py
+5.input message, key
+6.press encrypt
+7.enter port
+8.press send
+9.then on decryptor enter key and press decrypt
 
 
 
